@@ -1,2 +1,2 @@
 #!/bin/bash
-cwd.glob*.html
+cp *.html/14-copy_html
