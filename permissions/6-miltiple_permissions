@@ -1,2 +1,2 @@
 #!/bin/bash
-chown chmod hello
+chmod u+x chown groups hello
