@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w "3" iacta.txt
+sed -n '3p' iacta
