@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -w "3" iacta
+sed "3" iacta
