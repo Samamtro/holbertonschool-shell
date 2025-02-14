@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3p iacta
+grep -w "3" iacta
