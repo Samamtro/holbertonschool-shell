@@ -1,0 +1,2 @@
+#!/bin/bash
+output_file="ls_cwd_content"
